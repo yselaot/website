@@ -3,24 +3,29 @@ project:
   output-dir: docs
   
 website:
-  title: "Ysela Ochoa Tapia"
+  title: " "
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - projects.qmd
+        text: Ysela Ochoa Tapia
+      - href: projects.qmd
+        text: Clases
+      - href: talks.qmd
+        text: Presentaciones
+      - href: about.qmd
+        text: Acerca de Mi
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/yselaot
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Ysela"
-
+    left: "&copy; Copyright 2023, Ysela Ochoa Tapia"
+  reader-mode: true
 format:
   html:
-    theme: cerulean
+    theme: 
+      light: quartz
+      dark: darkly
     toc: true
 
 editor: source

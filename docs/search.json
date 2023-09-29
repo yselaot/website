@@ -1,23 +1,51 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ysela Ochoa Tapia",
+    "section": "",
+    "text": "Soy Educadora y Profesora en las areas de Matemática y Estadística.\n\n\n\nM.Sc. Mathematics and Statistics, 2014,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Education Mathematics, 2011,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Mathematics, 2003,  Universidad San Antonio Abad del Cusco, Perú.\n\n\n\n\n\nMar 2023 - Present, Full Time Professor\n\nScience Department. Continental University, Cusco-Perú\n\nTeaching Undergraduate Courses: MATE 1.0, MATE 2.0\n\n\nAgo 2014 - Jul 2017, Full Time Assistant Professor.\n\nMathematical Scinece Dpt. University of Puerto Rico at Mayaguez.\n\nTeaching Undergraduate Courses: Calculus, Pre-Calculus, Razonamiento Matemático.\n\n\n\n\n\n\nEducación, Pedagogía, Matemáticas, Estadísticas."
+  },
+  {
+    "objectID": "about.html#educación",
+    "href": "about.html#educación",
+    "title": "Ysela Ochoa Tapia",
+    "section": "",
+    "text": "M.Sc. Mathematics and Statistics, 2014,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Education Mathematics, 2011,  Universidad of Puerto Rico Recinto de Mayaguez, USA.\nB.Sc. Mathematics, 2003,  Universidad San Antonio Abad del Cusco, Perú."
+  },
+  {
+    "objectID": "about.html#experiencia",
+    "href": "about.html#experiencia",
+    "title": "Ysela Ochoa Tapia",
+    "section": "",
+    "text": "Mar 2023 - Present, Full Time Professor\n\nScience Department. Continental University, Cusco-Perú\n\nTeaching Undergraduate Courses: MATE 1.0, MATE 2.0\n\n\nAgo 2014 - Jul 2017, Full Time Assistant Professor.\n\nMathematical Scinece Dpt. University of Puerto Rico at Mayaguez.\n\nTeaching Undergraduate Courses: Calculus, Pre-Calculus, Razonamiento Matemático."
+  },
+  {
+    "objectID": "about.html#areas-de-interés",
+    "href": "about.html#areas-de-interés",
+    "title": "Ysela Ochoa Tapia",
+    "section": "",
+    "text": "Educación, Pedagogía, Matemáticas, Estadísticas."
+  },
+  {
+    "objectID": "projects.html#mate-2.0",
+    "href": "projects.html#mate-2.0",
+    "title": "Enseñanza en la Universidad Continental",
+    "section": "MATE 2.0",
+    "text": "MATE 2.0"
+  },
+  {
+    "objectID": "projects.html#mate-2.34556",
+    "href": "projects.html#mate-2.34556",
+    "title": "Enseñanza en la Universidad Continental",
+    "section": "MATE 2.34556",
+    "text": "MATE 2.34556"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Ysela Ochoa Tapia",
     "section": "",
-    "text": "Thanks for checking out my web site!"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "text": "MATHEMATICS & STATISTICS\n\nI’m fulltime professor at the “Universidad Contintental”, focusing on Mathematics, and Statistics courses.\nI’m applying my professional knowledge in academia.\nI enjoy making research, prepare didactical clases, and use tools for efficiently teaching.\nI studied Mathematics and Statistics, finishing my Master in Science in 2014, I worked in academia (teaching and doing research). I usually use Latex, R and my Ipad to develop my clases.\nI love teaching and motherhood!"
   }
 ]

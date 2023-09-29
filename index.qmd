@@ -1,19 +1,28 @@
 ---
-title: "About Me"
-about:
+title: "Ysela Ochoa Tapia"
+about: 
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/yse.png
 ---
+<style>
+body {
+text-align: justify}
+</style>
+
 
 :::{#me}
 
-## Goals
+- ***MATHEMATICS & STATISTICS***
 
-## Education
+    - I'm fulltime professor at the "Universidad Contintental", focusing on **Mathematics**,  and **Statistics** courses. 
 
-## Experience
+    - I'm applying  my professional knowledge in academia.
 
+    - I enjoy making research, prepare didactical clases, and use tools for efficiently teaching.
+   
+    - I studied Mathematics and Statistics, finishing my Master in Science in 2014, I worked in academia (teaching and doing research). I usually use Latex, R and my Ipad to develop my clases. 
+    
+    - I love teaching and motherhood!
 :::
 
-Thanks for checking out my web site!

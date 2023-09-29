@@ -1,0 +1,46 @@
+---
+title: "Ysela Ochoa Tapia"
+about: 
+  id: me
+  template: broadside
+  image: img/ysefotix.png
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+:::{#me}
+
+Soy Educadora y Profesora en las areas de Matemática y Estadística.
+
+## Educación
+
+
+- M.Sc. Mathematics and Statistics, 2014, <br /> Universidad of Puerto Rico Recinto de Mayaguez, USA.
+
+- B.Sc. Education Mathematics, 2011, <br />  Universidad of Puerto Rico Recinto de Mayaguez, USA.
+
+- B.Sc. Mathematics, 2003, <br />  Universidad San Antonio Abad del Cusco, Perú.
+
+
+## Experiencia
+
+-   Mar 2023 - Present, **Full Time Professor**
+    -   Science Department. Continental University, Cusco-Perú
+        - Teaching Undergraduate Courses: MATE 1.0, MATE 2.0
+
+
+-   Ago 2014 - Jul 2017, **Full Time Assistant Professor**.
+    -   Mathematical Scinece Dpt. University of Puerto Rico at Mayaguez.
+        - Teaching Undergraduate Courses: Calculus, Pre-Calculus, Razonamiento Matemático.
+
+
+## Areas de interés
+
+Educación, Pedagogía, Matemáticas, Estadísticas.
+
+:::
+
